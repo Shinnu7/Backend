@@ -1,0 +1,21 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cor": "^0.0.0",
+    "cors": "^2.8.5",
+    "dom": "^0.0.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "react": "^19.2.0",
+    "router": "^2.2.0"
+  }
+}
